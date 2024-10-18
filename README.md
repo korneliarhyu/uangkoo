@@ -1,3 +1,3 @@
 # uangkoo
 
-A new Flutter project on Youtube by Septiawan Aji Pradana.
+A beginner-friendly Flutter project on Youtube by Septiawan Aji Pradana.
